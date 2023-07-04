@@ -1,6 +1,6 @@
-title: Workshop Name # *** Enter workshop title here 
-github_repo_url: "https://scds.github.io/scds-template/" # *** Enter workshop URL (in github pages) here
-gh_edit_repository: "https://github.com/scds/scds-template" # *** Enter the github URL for your repo
+title: Introduction to Twine # *** Enter workshop title here 
+github_repo_url: "https://scds.github.io/intro-twine/" # *** Enter workshop URL (in github pages) here
+gh_edit_repository: "https://github.com/scds/intro-twine" # *** Enter the github URL for your repo
 ga_tracking: "" # *** This needs to be set up in Google Analytics once you know the website URL (ask Jay to do this). Then the tracking code needs to be taken from Google Analytics and pasted here.  
 
 # DMDS Settings
