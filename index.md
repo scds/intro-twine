@@ -5,7 +5,7 @@ nav_order: 1
 has_toc: false
 
 # Set this to "false" if you removed 'previousOffering.md'
-has_children: true 
+has_children: false 
 ---
 <!-- 
 This will be the home page of your module. It should give a small introduction to the student about the workshop topic.
@@ -17,25 +17,25 @@ Add, edit, or remove any content below for the workshop in question. -->
 <!-- Main header -->
 # Introduction to Twine Games
 
-This is a short description about the topic of the workshop. Replace this text with your own.
+Twine is a beginner-friendly platform for building Choose Your Own Adventure Games. Follow along with the four tutorial videos below to get started with Twine. All videos use the Harlowe 3.3.4 story format.
 
-In this tutorial, you will learn about ______.
+These tutorials were made for HUM2DH3: Creative, Collaborative, Critical: Introduction to Digital Scholarship. Sections of the videos relate directly to an assignment where students create a retelling of Frankenstein through a Twine Game. However, the majority of each video functions as a general introduction to Twine Games.
+
+Asynchronous Tutorials by Veronica Litt, Digital Scholarship Coordinator.  
+[Book an appointment with Veronica or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
 ## Prerequisites
 
 <!-- If creating or installing is covered in the module (preparation), mention that in brackets. -->
-- A [GitHub.com](https://www.github.com) account.
-- Installation of [Python](https://www.python.org/downloads/). (This will be covered in the [Preparation](preparation) page)
-- Some familiary with **softwareName/topic here**
+- Installation of [Twine](https://twinery.org/) (this will be covered in the Preparation page)
+- An [itch.io](https://itch.io/) account (this will be covered in the Preparation page)
 
 <!-- What will the student learn to do, learn to use, etc. -->
 ## Learning Objectives
 By the end of this workshop, you will be able to:
-- Learning objective 1
-- Learning objective 2
-- Learning objective 3
-- Learning objective 4
-- You can add more here.
+- Create an interactive digital story using [Twine](https://twinery.org/)
+- Customize your text and backgrounds
+- Publish your game on [itch.io](https://itch.io/)
 
 <!-- Estimate the time the workshop will take to complete. Feel free to remove this. -->
 ## Duration (optional)

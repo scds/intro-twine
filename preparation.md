@@ -15,32 +15,30 @@ Seperate preparation into account creation, file downloads, and software downloa
 However, you can format this as you wish.
 An example is provided below.
 -->
-## 1. Create an account
-- Navigate to [website](https://www.google.com) and sign up for an account if you don't already have one.
+## 1. Install Twine
+
+TODO: Insert Veronica's installation guide
+
+<details markdown="1">
+<summary>Text Walkthrough</summary>
+- Navigate to <https://twinery.org/>.
+- Select `Download desktop app`. The desktop app of Twine has some additional features that aren't available in the browser version.
+<img src="assets/img/prep1.png">
+- Go to the latest release and download Twine for your operating system.
+<img src="assets/img/prep2.png">
+- Follow the instructions in the installation wizard.
+</details>
+
+## 2. Create an itch.io account
+
+If you wish to publish your Twine game online, or if you'd like to share it with your friends, the easiest and best way is to use [itch.io](https://itch.io).
+
+TODO: Insert Veronica's installation guide
+
+<details markdown="1">
+<summary>Text Walkthrough</summary>
+- Navigate to [itch.io](https://itch.io).
+- Click on the `Register` button at the top right of the page.
+<img src="assets/img/prep3.png">
 - After registering, sign in to your account.
-
-## 2. Get the data
-You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://www.google.com).
-
-## 3. Get the software
-This hands-on workshop uses [Software Name](https://www.google.com). Please download *Software Name* in advance of the workshop to be able to participate in it to the fullest extent.
-
-{: .warning }
-> This is a warning message. You can use to to mention things like:
->
-> - Must be a McMaster Student/Staff to access content/software licenses
-> - Windows/MacOS/Linux is not supported
-
-### Windows/Mac Installation
-<!-- Usually, linking to an installation guide on the official website of the software is enough, no need to explain how to install. -->
-<!-- If there are additional steps not covered in the installation guide, include them -->
-- Steps for installation.
-
-    ![An image to show the step above](assets/img/temporaryInstallationGuide.png)
-
-- More guidance can be found [here](https://www.google.com).
-
-### Linux Installation
-- Steps for installation.
-- More steps for installation.
-- More guidance can be found [here](https://www.google.com).
+</details>
