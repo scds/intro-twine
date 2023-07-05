@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lesson 4 - Lesson Name
+title: Lesson 4 - Hosting Your Twine Game on itch.io
 nav_order: 4
 parent: Lessons
 ---
 
 {: .no_toc}  
-# Lesson 4 - Lesson Name 
+# Lesson 4 - Hosting Your Twine Game on itch.io
 
 A small description about the lesson.
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lesson 2 - Lesson Name
+title: Lesson 2 - Customizing the Appearance of Text on Twine
 nav_order: 2
 parent: Lessons
 ---
 
 {: .no_toc}  
-# Lesson 2 - Lesson Name 
+# Lesson 2 - Customizing the Appearance of Text on Twine
 
 A small description about the lesson.
 
