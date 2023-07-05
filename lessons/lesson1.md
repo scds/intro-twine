@@ -13,7 +13,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 {: .no_toc}  
 # Lesson 1 - Building your Twine Game
 
-A small description about the lesson.
+In this lesson, we'll cover some of the basics of using Twine: creating your first story, exploring the user interface, and creating passages for players to traverse.
 
 <!-- This is your table of contents. You don't need to touch it, it automatically creates it when you add or remove headers. If you do not want a header to be included, put {: .no_toc } above the header line, as you can see above with Lesson 1 - Lesson Name. Make sure that there's also an empty line above {: .no_toc }... Markdown is picky about this :( -->
 <details markdown="block">
