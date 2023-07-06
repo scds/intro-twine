@@ -1,0 +1,128 @@
+:: StoryTitle
+Hamilton Coffee Walk - Demo
+
+
+:: StoryData
+{
+  "ifid": "56886EB1-4D2C-4EAB-9089-B319C3ADFAF2",
+  "format": "Harlowe",
+  "format-version": "3.3.5",
+  "start": "Home",
+  "zoom": 1
+}
+
+
+:: \ A black coffee. I am pulling an all-nighter.\  {"position":"300,475","size":"100,100"}
+(b4r:"outset","none","none")+(b4r-size:5,1,1)+(b4r-colour:(hsl:300,0.1913,0.451,0.85),white,white)[Black coffee.]
+
+(b4r:"dotted")+(b4r-size:2)+(b4r-colour:yellow)[A classic.]
+
+(b4r:"none","none","none","outset")+(b4r-size:2)+(b4r-colour:yellow,yellow,yellow,purple)[My personal favourite.]
+
+(text-rotate-x:65)+(text-rotate-y:334)+(text-rotate-z:359)[A decent song]
+
+(text-rotate-x:350)+(text-rotate-y:161)+(text-rotate-z:23)[By Sylvian Esso]
+
+
+* Humans have been drinking coffee for hundred of years!
+
+
+0. Because it's good. 
+
+
+:: \ A soy latte. I am browsing James Street.\  {"position":"150,475","size":"100,100"}
+(align:"==>")+(box:"====X")[Soy soy beans]
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXX===")[the magical fruit]
+
+(align:"<==>")+(box:"====XXXXX================")[are beans a fruit]
+
+=|=
+aren't they a legume?
+=|=
+I will google when I'm done
+=|=
+this demo
+=|=
+maybe these passages
+=|=
+could be published
+=|=
+as found poetry
+|==|
+
+[[ Maybe I should look for some poets in Hamilton... | Poetry]] 
+
+
+:: \ Cortado\  {"position":"475,475","size":"100,100"}
+(text-color:red)[Oh a Cortado!]
+
+(text-color:magenta)[What bliss!]
+
+(text-color:green)[A little coffee treat!]
+
+(text-color:#a8e1a8)[That I learned about in grad school!]
+
+(text-color:(hsl:30,0.8039,0.5,0.3))[From a friend named Geoffrey!]
+
+(bg:lime)[Who has just written a strange novel]
+
+(bg:(hsl:258,0.3913,0.549,0.65))[about a man]
+
+(bg:(gradient: 0, 0,#e68019,0.4856,#e619e5,1,#e5e619))[who wanders around a park]
+
+
+:: \ Poetry {"position":"150,600","size":"100,100"}
+[[https://hamiltonpoetrycentre.com/]]
+
+
+:: \ Tea\  {"position":"600,475","size":"100,100"}
+''Peppermint tea.''
+
+//What a treat.//
+
+~~So calming.~~
+
+(text-style:"upside-down")[Leaves in hot water.]
+
+(text-style:"sway")[Kind of a soup if you think about it.]
+
+(text-style:"blink")[A very watery soup.]
+
+
+:: Home {"position":"375,200","size":"100,100"}
+You are a McMaster student and you want a coffee. Where do you go?
+
+[[Vintage Coffee]]
+[[Phin Coffee]]
+[[The Mulberry]]
+
+
+:: Phin Coffee {"position":"375,350","size":"100,100"}
+Great choice! Phin is close to campus and the owner is lovely.
+What do you order?
+
+[[ A black coffee. I am pulling an all-nighter. ]] 
+[[ A cortado. I need to study and need a little caffeine. | Cortado ]]
+
+
+:: The Mulberry {"position":"225,350","size":"100,100"}
+Great choice!
+
+The Mulberry is atmospheric and cozy.
+
+What do you order?
+
+[[ A black coffee. I am pulling an all-nighter. ]]
+[[ A soy latte. I am browsing James Street. ]]
+
+
+:: Vintage Coffee {"position":"550,350","size":"100,100"}
+Great choice!
+
+Vintage Coffee is very involved in the community and roasts their own beans!
+
+What do you order?
+
+[[ A cortado. I need to study and need a little caffeine. | Cortado ]]
+[[ A tea. I just want to relax. | Tea ]]
