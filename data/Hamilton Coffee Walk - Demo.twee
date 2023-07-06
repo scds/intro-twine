@@ -27,7 +27,9 @@ Hamilton Coffee Walk - Demo
 * Humans have been drinking coffee for hundred of years!
 
 
-0. Because it's good. 
+0. Because it's good.
+
+[[I love coffee.]]
 
 
 :: \ A soy latte. I am browsing James Street.\  {"position":"150,475","size":"100,100"}
@@ -51,7 +53,7 @@ could be published
 as found poetry
 |==|
 
-[[ Maybe I should look for some poets in Hamilton... | Poetry]] 
+[[ Maybe I should look for some poets in Hamilton... | Poetry]]
 
 
 :: \ Cortado\  {"position":"475,475","size":"100,100"}
@@ -71,9 +73,41 @@ as found poetry
 
 (bg:(gradient: 0, 0,#e68019,0.4856,#e619e5,1,#e5e619))[who wanders around a park]
 
+[[I hope Geoffrey is doing well | Geoffrey]]
+
+
+:: \ Geoffrey {"position":"475,600","size":"100,100"}
+(text-size:1)[There is a renaissance poem]
+
+(text-size:2)[about a cat]
+
+(text-size:5)[named Geoffrey]
+
+(text-size:0.5)[written by a strange]
+
+(text-size:0.15)[and lovely]
+
+(font:'Courier New')[man]
+
+(font:'Arial')[whose name]
+
+(font:'Tahoma')[I don't remember]
+
+
+
+
+
+
+
 
 :: \ Poetry {"position":"150,600","size":"100,100"}
-[[https://hamiltonpoetrycentre.com/]]
+I hear the <a href="https://hamiltonpoetrycentre.com/">[Hamilton Poetry Centre]</a> has workshops on getting started in the poetry scene.
+
+
+:: \ Set\  {"position":"600,600","size":"100,100"}
+(set: $name to (prompt: "What is your name?", ""))
+
+Hello, $name!
 
 
 :: \ Tea\  {"position":"600,475","size":"100,100"}
@@ -89,6 +123,10 @@ as found poetry
 
 (text-style:"blink")[A very watery soup.]
 
+<img src="https://cdn-prod.medicalnewstoday.com/content/images/articles/325/325242/peppermint-tea.jpg" />
+
+[[Now let's try the Set Tool | Set ]]
+
 
 :: Home {"position":"375,200","size":"100,100"}
 You are a McMaster student and you want a coffee. Where do you go?
@@ -98,7 +136,13 @@ You are a McMaster student and you want a coffee. Where do you go?
 [[The Mulberry]]
 
 
-:: Phin Coffee {"position":"375,350","size":"100,100"}
+:: I love coffee. {"position":"300,600","size":"100,100"}
+(enchant: ?page, (background: (stripes: 45, 20, fuchsia, white)))
+
+Coffee is the nectar of the gods.
+
+
+:: Phin Coffee {"position":"375,325","size":"100,100"}
 Great choice! Phin is close to campus and the owner is lovely.
 What do you order?
 
