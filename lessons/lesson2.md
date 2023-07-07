@@ -63,7 +63,8 @@ If you'd like to change the font colour or the colour of the text background...
 
 There's a lot of customization here too, allowing for gradients and custom colour selection. Take some time to play around with these settings!
 
-<img width="60%" alt="example using colours" src="../assets/img/lessons/text7.png" style="border: solid 2px black"> 
+<img width="60%" alt="example using colours" src="../assets/img/lessons/text7.png" style="border: solid 2px black">   
+[Check out Geoffrey's novel here!](https://chbooks.com/Books/F/Falling-Hour)
 
 ## Borders
 Twine also allows you to add borders to text.
