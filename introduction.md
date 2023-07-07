@@ -16,6 +16,8 @@ Follow along with the introductory slides or text below.
 <!-- <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false"></iframe>
 [View original here.](https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false) -->
 
+TODO: Introduction video
+
 <!-- If your page has slides/PDFs/worksheets to go along with it, put it here. -->
 <embed width="100%" height="466" src="assets/docs/twineIntro.pdf" style="border:none;">
 [Download slides here.](assets/docs/twineIntro.pdf)
@@ -23,7 +25,7 @@ Follow along with the introductory slides or text below.
 <!-- Below the video/slides, this is where you put the text version of the page. -->
 ## What is Twine?
 
-Twine is a free open-source media software created in 2009 by Chris Klimas, a web programmer in Baltimore. It's used to create a wide variety of hypertext narratives including games, interactive fiction, stories, websites, quizzes, resources, essays, e-poetry, divination manuals, and more. Twine is primarily popular with game designers, indie creators, and educators.
+Twine is a free open-source media software created in 2009 by Chris Klimas, a web programmer in Baltimore. It's used to create a wide variety of hypertext narratives, including games, interactive fiction, stories, websites, quizzes, resources, essays, e-poetry, divination manuals, and more. Twine is primarily popular with game designers, indie creators, and educators.
 
 {: .important-title }
 > Fun Fact
@@ -32,11 +34,13 @@ Twine is a free open-source media software created in 2009 by Chris Klimas, a we
 
 ## Twine's Critical Capacities
 - Amplifies the element of play in scholarship and pushes back on dominant modes of scholarly publication
-- Fosters interaction between scholar and their reader/player
+- Fosters interaction between scholars and their readers/players
 - Emphasizes reading as active and creative rather than passive
-- Enhance player’s perspective - Twine is an impactful way to immerse a player in a situation
+- Enhances the player’s perspective - Twine is an impactful way to immerse a player in a situation
 - Opportunity to pace a reader’s movement through your work
 - Creative intervention in political and social issues
+- Encourages creators and players to explore possibilities, alternatives, multiplicity over singularity
+- Can be argumentative and unified, but can also provide an avenue for expansive and non-linear thinking/outlining
 
 ## Twine Games
 Below are some examples of wonderful games and stories created using Twine.

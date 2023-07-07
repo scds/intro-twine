@@ -37,11 +37,8 @@ In this lesson, we'll cover some of the basics of using Twine: creating your fir
 ## Lesson Video
 The following video demonstrates each of the steps outlined below in text.
 
-<!-- Place iframe of video here -->
-TODO: EDIT OUT INSTALLATION PROCESS
-
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a7dbf7d0-3bef-4e39-ae4d-2fb03a301d6e/public"></iframe>
-[View original here.](https://echo360.ca/media/a7dbf7d0-3bef-4e39-ae4d-2fb03a301d6e/public)
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/f4737d1d-a560-40cd-b0f7-76719d16cbbe/public"></iframe>
+[View original here.](https://echo360.ca/media/f4737d1d-a560-40cd-b0f7-76719d16cbbe/public)
 
 <!-- Text content format for your lessons if you don't want to rely on videos, or want to provide another format of learning consumption. -->
 ## Creating your Twine Story
@@ -55,11 +52,12 @@ Let's start by creating a new Twine story.
 - Click on the `New` button at the top left of your application window.
 - Give your new story a name (we'll name ours "Hamilton Coffee Walk - Demo"), and click `Create`.
 <img width="100%" src="../assets/img/lessons/project1.png" style="border: solid 2px black"> 
-- Once you've created your new story, you'll be taken to the "Passages View". This is where you'll be creating your story.
+
+Once you've created your new story, you'll be taken to the "Passages View". This is where you'll be creating your story.
 
 ## Setting our Story Format
 
-Twine comes with several story formats which changes the way that Twine works. Taken from the [Twine Cookbook](https://twinery.org/cookbook/starting/twine2/storyformat.html):
+Twine comes with several story formats that change the way that Twine works. Taken from the [Twine Cookbook](https://twinery.org/cookbook/starting/twine2/storyformat.html):
 
 - **Harlowe** is the default story format, and is focused on making it easy to add basic interaction to your stories in a readable, concise way.
 - **Snowman** is designed to be used by people who are familiar with writing JavaScript and CSS, two broadly-used Web technologies, and makes it easy to build a heavily-customized reading experience.
@@ -82,13 +80,13 @@ When creating stories, you'll need more space than what's currently on your scre
 You can use the vertical and horizontal scrollbars to move your screen to other sections of the view.
 
 ### Zooming 
-You can also zoom in and out. This'll impact the user interface as well as the size of the Passages View.
+You can also zoom in and out. This will impact the user interface as well as the size of the Passages View.
 
 - At the top left, in the `View` section, you'll see the `Zoom In` and `Zoom Out` options. You can click on them multiple times to zoom in and out even further.
 <img width="100%" src="../assets/img/lessons/project3.png" style="border: solid 2px black"> 
 
 ### Story Views
-Twine also provides three different "Story Views" that zooms the screen in and out depending on what information you want to see. 
+Twine also provides three different "Story Views" that zoom the screen in and out depending on what information you want to see. 
 
 <div style="display: grid; align-items: center; row-gap: 2px; column-gap: 10px">
   <img width="100%" src="../assets/img/lessons/project4.png" style="border: solid 2px black; grid-row-start: span 3; grid-column-start: 1"> 
@@ -105,14 +103,14 @@ Twine also provides three different "Story Views" that zooms the screen in and o
 
   <p style="grid-row-start: 3; grid-column-start: 2">
   <b>Story Structure</b>  
-  Used to view the structure of a story and connections between passages.
+  Used to view the structure of a story and the connections between passages.
   </p>
 
 </div>
 
 ## Writing your Story
 
-Now that we've gotten all the setup and information done and out of the way, we can start creating our story!
+Now that we've gotten all the setup and information out of the way, we can start creating our story!
 
 In Twine, story "blocks" or "segments" are called "Passages". Each passage can have text, links to other passages, and visual customization. By default, Twine creates the first passage and calls it `Untitled Passage`.
 
@@ -122,14 +120,14 @@ In Twine, story "blocks" or "segments" are called "Passages". Each passage can h
 
 ## Viewing your Story
 
-Currently, you're writing your story in the coding-end of Twine. To see what your players will see:
+Currently, you're writing your story in the coding end of Twine. To see what your players will see:
 
 - Close the passage editing menu.
 - In the `Passage` section, click on `Test from Here`.
 <img width="100%" src="../assets/img/lessons/project6.png" style="border: solid 2px black">
 
 {: .note }
-If your `Test from Here` button isn't working or it's grayed out, make sure you have your passage selected. To select your passage, simply click once on it. 
+If your `Test from Here` button isn't working or is greyed out, make sure you have your passage selected. To select your passage, simply click once on it. 
 
 <img width="100%" src="../assets/img/lessons/project7.png" style="border: solid 2px black">
 
@@ -158,7 +156,7 @@ Let's create a few more passages.
 
 <img width="100%" src="../assets/img/lessons/project9.png" style="border: solid 2px black">
 
-You'll notice that the titles start to get extremely long. What we can do instead is create a link that seperates the display text from the location text.
+You'll notice that the titles start to get extremely long. What we can do instead is create a link that separates the display text from the location text.
 
 - Create a new option for the player.
 - Before surrounding it with square brackets [[ ]], add a pipe character \| at the end. This can usually be found above the `Enter` key on your keyboard.
@@ -166,7 +164,7 @@ You'll notice that the titles start to get extremely long. What we can do instea
 - Finally, surround it with square brackets [[ ]]. See the image below for an example.
 <img width="100%" src="../assets/img/lessons/project10.png" style="border: solid 2px black">
 
-You can see that only the text after the pipe is formatted blue. The Vintage Coffee points to two new passages, Tea and Cortado. In the game however, we instead see the display text show up for the options.
+You can see that only the text after the pipe is formatted blue. The Vintage Coffee points to two new passages, Tea and Cortado. In the game, however, we instead see the display text show up for the options.
 
 <img width="100%" src="../assets/img/lessons/project11.png" style="border: solid 2px black">
 
@@ -178,7 +176,7 @@ When Twine automatically creates your passages, it can get messy real quickly. Y
 
 ## Reusing Passages
 
-If you have a passage that can be used by multiple passage links, you don't need to create duplicates for each passage that needs that link. You can simply refer to it by title when creating the link.
+If you have a passage that can be used by multiple passage links, you don't need to create duplicates for each passage that needs that link. You can simply refer to it by its title when creating the link.
 
 <img width="100%" src="../assets/img/lessons/project13.png" style="border: solid 2px black">
 
@@ -197,14 +195,14 @@ Let's wrap up the first lesson by playing the game without the debug window popp
 - Go into the `Build` section and click on `Play`.
 <img width="100%" src="../assets/img/lessons/project15.png" style="border: solid 2px black">
 
-That's it! This'll open up a new browser tab without the debug menu.
+That's it! This will open up a new browser tab without the debug menu.
 
 {: .warning}
 If you want to share your game with your friends, you cannot simply give them that link. We'll talk more about this in [lesson 4](lesson4).
 
 ### Saving your Game as a File
 
-If you'd rather have your game saved as a file, so that you can play the game without opening Twine... 
+If you'd rather have your game saved as a file so that you can play the game without opening Twine... 
 - Click on the `Publish to File` button beside `Play`.
 - Save the file as an HTML file (add a .html at the end of the file name) and save.
 <img width="100%" src="../assets/img/lessons/project16.png" style="border: solid 2px black">
@@ -213,6 +211,6 @@ If you'd rather have your game saved as a file, so that you can play the game wi
 ## Key Points / Summary
 
 - There are lots of ways to interact with your Twine story
-- When linking passages, you can seperate the display text from the title of the passage link
+- When linking passages, you can separate the display text from the title of the passage link
 - It's important to frequently test your changes to prevent big issues from piling up
 

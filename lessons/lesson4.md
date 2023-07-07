@@ -21,7 +21,7 @@ In this final lesson, we'll be publishing our game on [itch.io](https://itch.io)
 
 ## Lesson Objectives
 - Export your Twine game as a `.html` file
-- Upload your game on [itch.io](https://itch.io)
+- Upload your game to [itch.io](https://itch.io)
 
 ## Lesson Video
 The following video demonstrates each of the steps outlined below in text.
@@ -42,7 +42,7 @@ Games uploaded to [itch.io](https://itch.io) do not have to be made public. You 
 
 In order to upload our game to itch.io, we'll need to export our game as a .html file.
 
-- If you don't already have your project opened, open it up now.
+- If you don’t already have your project open, open it now.
 - Under the `Build` tab, click on `Publish to File`.
 <img width="75%" src="../assets/img/lessons/itch1.png" style="border: solid 2px black"> 
 - Save your file as a ".html" file. If you're not able to select it, just make sure the file name ends with ".html".  
@@ -65,14 +65,14 @@ If you haven't already, you must have an [itch.io](https://itch.io) account to b
   - Finally, make sure to enable scrollbars. Passages sometimes get too long, so it's important for players to be able to scroll.  
   <img width="50%" src="../assets/img/lessons/itch5.png" style="border: solid 2px black">
 
-You can mess around with the other settings yourself, like giving your game a description or tags. If you're planning to upload a game in the future, keep in mind that the visibility of your game will increase if you've got more details about the game.
+You can mess around with the other settings yourself, like giving your game a description or tags. If you're planning to upload a game in the future, keep in mind that the visibility of your game will increase if you've got more details about it.
 
 When you're done with your game details, you'll need to select the access mode for your game. The first time you choose, it won't allow you to make your game public. This is to prevent accidental publishing.
 
 To set your game to public, you'll need to click on `Save and view page` while it's in either Draft mode or Restricted mode.  
 <img width="80%" src="../assets/img/lessons/itch6.png" style="border: solid 2px black">
 
-This will bring you to your new game page where you can test your game to make sure it's working.
+This will bring you to your new game page, where you can test your game to make sure it's working.
 
 Once you're ready to make your game public, click on `Edit game` at the top of the game page.  
 <img width="100%" src="../assets/img/lessons/itch7.png" style="border: solid 2px black">

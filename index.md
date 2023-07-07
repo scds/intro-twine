@@ -17,7 +17,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 <!-- Main header -->
 # Introduction to Twine
 
-Twine is a beginner-friendly platform for building Choose Your Own Adventure Games. Follow along with the four tutorial videos below to get started with Twine. All videos use the Harlowe 3.3.4 story format.
+This module will introduce you to Twine, a beginner-friendly platform for building interactive fiction. We will discuss how to create a Twine game, how to customize it, and how to publish it online for others to see.
 
 These tutorials were made for HUM2DH3: Creative, Collaborative, Critical: Introduction to Digital Scholarship. Sections of the videos relate directly to an assignment where students create a retelling of Frankenstein through a Twine Game. However, the majority of each video functions as a general introduction to Twine Games.
 
@@ -34,12 +34,12 @@ Asynchronous Tutorials by Veronica Litt, Digital Scholarship Coordinator.
 ## Learning Objectives
 By the end of this workshop, you will be able to:
 - Create an interactive digital story using [Twine](https://twinery.org/)
-- Customize your text and backgrounds
+- Learn how to customize your game using Twine's built-in tools and code
 - Publish your game on [itch.io](https://itch.io/)
 
 <!-- Estimate the time the workshop will take to complete. Feel free to remove this. -->
 ## Duration (optional)
-This module will take around 1 to 2 hours, however feel free to work at your own pace!
+This module will take around an hour, however feel free to work at your own pace!
 
 ## Land Acknowledgement
 We'd like to acknowledge that McMaster University sits on the Territories of the Mississauga and Haudenosaunee Nations, and within the lands protected by the Dish With One Spoon wampum agreement.

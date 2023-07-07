@@ -38,7 +38,7 @@ To apply some text styles to your text...
 If all went according to plan, your text should be formatted similarly to the style itself. It should also be surrounded by a symbol at the start and end. Those signify the text style, similarly to how square brackets [[ ]] signify a link, so they won't be seen in the game itself.
 
 ### Additional Text Styles
-If bold, italic, strikethrough, and superscript isn't enough, there's an extra menu with a lot more options.
+If bold, italic, strikethrough, and superscript aren't enough, there's an extra menu with a lot more options.
 - Highlight the text you'd like to apply the styling to.
 - Open up the `Styles` menu.
 - Click on `More Styles`.  
@@ -47,7 +47,7 @@ If bold, italic, strikethrough, and superscript isn't enough, there's an extra m
 <img width="75%" src="../assets/img/lessons/text3.png" style="border: solid 2px black"> 
 
 {: .note }
-You can scroll down to see more options in the text styles.
+You can scroll down to see more options for the text styles.
 
 There's lots of customization available in this menu, allowing for font variants, underlines, strikes, superscripts, subscripts, outlines, letter spacing, flips, stretches, and animations.
 
@@ -61,7 +61,7 @@ If you'd like to change the font colour or the colour of the text background...
 - Select the styling you'd like.
 <img width="75%" src="../assets/img/lessons/text6.png" style="border: solid 2px black"> 
 
-There's a lot of customization here too, allowing for gradients and custom color selection. Take some time to play around with these settings!
+There's a lot of customization here too, allowing for gradients and custom colour selection. Take some time to play around with these settings!
 
 <img width="60%" src="../assets/img/lessons/text7.png" style="border: solid 2px black"> 
 
@@ -104,7 +104,7 @@ TODO
 Finally, the last text formatting option we'll cover is alignment and columns.
 
 ### Alignment
-- Highlight the text you'd like to set the alignment of.
+- Highlight the text you'd like to change the alignment of.
 - Open up the `Alignments and columns` menu and select `Alignment`.
 <img width="75%" src="../assets/img/lessons/text16.png" style="border: solid 2px black">
 - Adjust the placement and width of your text and select the text alignment.
@@ -119,10 +119,10 @@ Finally, the last text formatting option we'll cover is alignment and columns.
 - Move your text into the designated text area created for you.
 <img width="75%" src="../assets/img/lessons/text20.png" style="border: solid 2px black">
 
-Twine allows for in-depth positioning and column editing that's rarely found on other applications.
+Twine allows for in-depth positioning and column editing that's rarely found in other applications.
 
 <img width="100%" src="../assets/img/lessons/text21.png" style="border: solid 2px black">
 
 ## Key Points / Summary
 
-- There are many ways you can customize your text in Twine.
+- There are many ways to customize text in Twine.

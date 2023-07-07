@@ -8,7 +8,7 @@ parent: Lessons
 {: .no_toc}  
 # Lesson 3 - Customizing Your Twine Game with Code
 
-In this third lesson, we'll be learning how to include links and images, change the font, and several other things using code.
+In this third lesson, we'll be learning how to include links and images, change the font, and do several other things using code.
 
 <details markdown="block">
   <summary>
@@ -35,11 +35,11 @@ The following video demonstrates each of the steps outlined below in text.
 
 Throughout this lesson, we'll be referencing [this Twine Code Cheat Sheet](https://mcmasteru365-my.sharepoint.com/:w:/g/personal/littvs_mcmaster_ca/EUZxxT7qrPBPpqtEW6ULoUkBTCTT8tRZBhNkRbpeuPO06A?rtime=Qy8ejxp-20g).
 
-You should keep it open in a new tab while working on your Twine game, as it'll come handy often.
+You should keep it open in a new tab while working on your Twine game, as it'll come in handy often.
 
 ## Creating Links
 
-While we've already created passage links, which links the player to another passage of the story, this time we'll be creating website links. You'll notice that, if you simply copy paste a URL into your passage, it'll just stay as plain text and it won't be clickable.
+While we've already created passage links, which links the player to another passage of the story, this time we'll be creating website links. You'll notice that if you simply copy and paste a URL into your passage, it'll just stay as plain text and it won't be clickable.
 
 If you take a look at the Twine Code Cheat Sheet, the code to insert a link to a webpage is 
 
@@ -79,7 +79,7 @@ Just like when we created a link, we need to pull up the cheat sheet to get the 
 <img src="URL OF IMAGE HERE" />
 ```
 
-Replace the `URL OF IMAGE HERE` with your image url. You can get an image url by right clicking the image in a browser and clicking on `Copy image address`.
+Replace the `URL OF IMAGE HERE` with your image URL. You can get an image URL by right clicking the image in a browser and clicking on `Copy image address`.
 
 <img width="80%" src="../assets/img/lessons/code3.png" style="border: solid 2px black"> 
 
@@ -117,7 +117,7 @@ Flipping back to the Twine cheat sheet, you should be able to find this line of 
 
 This changes the font size of the text inside the square brackets [ ].
 
-It's important to keep in mind that by default, text-size is 1. A text-size of 2 is double the default size, whereas a text-size of 0.5 is half the default size.
+It's important to keep in mind that, by default, text-size is 1. A text-size of 2 is double the default size, whereas a text-size of 0.5 is half the default size.
 
 <details markdown="1">
 <summary>Resizing text in Twine example</summary>
@@ -204,7 +204,7 @@ Output
 
 </details>
 
-There are additional settings that add more *pizzazz* to your background. You'll see that, in the cheat sheet, there's another line that adds colored stripes in the background.
+There are additional settings that add more *pizzazz* to your background. You'll see that, in the cheat sheet, there's another line that adds coloured stripes in the background.
 
 ```md
 (enchant: ?page, (background: (stripes: [angle number here], [stripe width number here], [colour name here], [colour name here])))
@@ -232,9 +232,9 @@ Twine allows for the use of variables. For those who don't know, a variable is a
 
 For example, when you start playing a new game, it might ask you for your name or username. You're given the opportunity to input your name, and then the game can use that name in the game.
 
-What's actually happening is that your name is saved to a variable called "name". Whenever the game wants to use that name, they can refer to the "name" variable and substitute that information. If you're confused, that's ok! Hopefully the example provided in this section will clear things up.
+What's actually happening is that your name is saved to a variable called "name". Whenever the game wants to use that name, they can refer to the "name" variable and substitute that information. If you're confused, that's okay! Hopefully, the example provided in this section will clear things up.
 
-In Twine, we use the `set` command to create a variable, replacing `VARIABLENAME` to the variable name and `VALUE` to the value you wish to choose. 
+In Twine, we use the `set` command to create a variable, replacing `VARIABLENAME` with the variable name and `VALUE` with the value you wish to choose. 
 
 ```md
 (set $VARIABLENAME to VALUE)

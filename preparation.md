@@ -17,7 +17,8 @@ An example is provided below.
 -->
 ## 1. Install Twine
 
-TODO: Insert Veronica's installation guide
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/10c31f36-35fa-4b72-8552-a23a51756755/public"></iframe>
+[View original here.](https://echo360.ca/media/10c31f36-35fa-4b72-8552-a23a51756755/public)
 
 <details markdown="1">
 <summary>Text Walkthrough</summary>
@@ -32,8 +33,6 @@ TODO: Insert Veronica's installation guide
 ## 2. Create an itch.io account
 
 If you wish to publish your Twine game online, or if you'd like to share it with your friends, the easiest and best way is to use [itch.io](https://itch.io).
-
-TODO: Insert Veronica's installation guide
 
 <details markdown="1">
 <summary>Text Walkthrough</summary>
