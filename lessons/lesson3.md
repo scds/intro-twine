@@ -58,12 +58,12 @@ If you're familiar with some web development, you'll recognize that this looks a
 {: .label }
 Input
 
-<img width="75%" src="../assets/img/lessons/code1.png" style="border: solid 2px black"> 
+<img width="75%" alt="creating link input" src="../assets/img/lessons/code1.png" style="border: solid 2px black"> 
 
 {: .label .label-green }
 Output
 
-<img width="100%" src="../assets/img/lessons/code2.png" style="border: solid 2px black"> 
+<img width="100%" alt="creating link output" src="../assets/img/lessons/code2.png" style="border: solid 2px black"> 
 </div>
 
 {: .note}
@@ -81,7 +81,7 @@ Just like when we created a link, we need to pull up the cheat sheet to get the 
 
 Replace the `URL OF IMAGE HERE` with your image URL. You can get an image URL by right clicking the image in a browser and clicking on `Copy image address`.
 
-<img width="80%" src="../assets/img/lessons/code3.png" style="border: solid 2px black"> 
+<img width="80%" alt="how to copy an image's address" src="../assets/img/lessons/code3.png" style="border: solid 2px black"> 
 
 {: .warning }
 Note: There's currently no easy way to include local images in Twine. If possible, try to rely on images found on the web.
@@ -93,12 +93,12 @@ Note: There's currently no easy way to include local images in Twine. If possibl
 {: .label }
 Input
 
-<img width="75%" src="../assets/img/lessons/code4.png" style="border: solid 2px black"> 
+<img width="75%" alt="creating image input" src="../assets/img/lessons/code4.png" style="border: solid 2px black"> 
 
 {: .label .label-green }
 Output
 
-<img width="100%" src="../assets/img/lessons/code5.png" style="border: solid 2px black"> 
+<img width="100%" alt="creating image output" src="../assets/img/lessons/code5.png" style="border: solid 2px black"> 
 </div>
 
 </details>
@@ -126,12 +126,12 @@ It's important to keep in mind that, by default, text-size is 1. A text-size of 
 {: .label }
 Input
 
-<img width="75%" src="../assets/img/lessons/code6.png" style="border: solid 2px black"> 
+<img width="75%" alt="resizing text input" src="../assets/img/lessons/code6.png" style="border: solid 2px black"> 
 
 {: .label .label-green }
 Output
 
-<img width="100%" src="../assets/img/lessons/code7.png" style="border: solid 2px black"> 
+<img width="100%" alt="resizing text output" src="../assets/img/lessons/code7.png" style="border: solid 2px black"> 
 </div>
 
 </details>
@@ -165,12 +165,12 @@ Not all fonts are supported, but some that you can use include:
 {: .label }
 Input
 
-<img width="75%" src="../assets/img/lessons/code8.png" style="border: solid 2px black"> 
+<img width="75%" alt="changing font input" src="../assets/img/lessons/code8.png" style="border: solid 2px black"> 
 
 {: .label .label-green }
 Output
 
-<img width="100%" src="../assets/img/lessons/code9.png" style="border: solid 2px black"> 
+<img width="100%" alt="changing font output" src="../assets/img/lessons/code9.png" style="border: solid 2px black"> 
 </div>
 
 </details>
@@ -194,12 +194,12 @@ Replace the `COLOUR HERE` with your desired colour.
 {: .label }
 Input
 
-<img width="75%" src="../assets/img/lessons/code10.png" style="border: solid 2px black"> 
+<img width="75%" alt="changing background colour input" src="../assets/img/lessons/code10.png" style="border: solid 2px black"> 
 
 {: .label .label-green }
 Output
 
-<img width="100%" src="../assets/img/lessons/code11.png" style="border: solid 2px black"> 
+<img width="100%" alt="changing background colour output" src="../assets/img/lessons/code11.png" style="border: solid 2px black"> 
 </div>
 
 </details>
@@ -217,12 +217,12 @@ There are additional settings that add more *pizzazz* to your background. You'll
 {: .label }
 Input
 
-<img width="75%" src="../assets/img/lessons/code12.png" style="border: solid 2px black"> 
+<img width="75%" alt="striped background input" src="../assets/img/lessons/code12.png" style="border: solid 2px black"> 
 
 {: .label .label-green }
 Output
 
-<img width="100%" src="../assets/img/lessons/code13.png" style="border: solid 2px black"> 
+<img width="100%" alt="striped background output" src="../assets/img/lessons/code13.png" style="border: solid 2px black"> 
 </div>
 </details>
 
@@ -259,11 +259,7 @@ Input
 {: .label .label-green }
 Output
 
-<img width="100%" src="../assets/img/lessons/code15.png" style="border: solid 2px black"> 
-
-<img width="100%" src="../assets/img/lessons/code16.png" style="border: solid 2px black"> 
-
-TODO: REPLACE WITH GIF
+<img width="100%" src="../assets/img/lessons/code15.gif" style="border: solid 2px black"> 
 
 </details>
 

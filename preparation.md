@@ -24,9 +24,9 @@ An example is provided below.
 <summary>Text Walkthrough</summary>
 - Navigate to <https://twinery.org/>.
 - Select `Download desktop app`. The desktop app of Twine has some additional features that aren't available in the browser version.
-<img src="assets/img/prep1.png">
+<img width="100%" alt="twine homepage" src="assets/img/prep1.png" style="border: solid 2px black">
 - Go to the latest release and download Twine for your operating system.
-<img src="assets/img/prep2.png">
+<img width="100%" alt="twine github download page" src="assets/img/prep2.png" style="border: solid 2px black">
 - Follow the instructions in the installation wizard.
 </details>
 
@@ -38,6 +38,6 @@ If you wish to publish your Twine game online, or if you'd like to share it with
 <summary>Text Walkthrough</summary>
 - Navigate to [itch.io](https://itch.io).
 - Click on the `Register` button at the top right of the page.
-<img src="assets/img/prep3.png">
+<img width="100%" alt="itch.io registration button" src="assets/img/prep3.png" style="border: solid 2px black">
 - After registering, sign in to your account.
 </details>
