@@ -13,14 +13,14 @@ Add, edit, or remove any content below for the workshop in question.
 Follow along with the introductory slides or text below.
 
 <!-- If your page has a video to go along with it, put it here. -->
-<!-- <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false"></iframe>
-[View original here.](https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false) -->
-
-TODO: Introduction video
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/c387e1fe-8042-44d2-a114-3c50ef18c524/public"></iframe>
+[View original here.](https://echo360.ca/media/c387e1fe-8042-44d2-a114-3c50ef18c524/public)
 
 <!-- If your page has slides/PDFs/worksheets to go along with it, put it here. -->
 <embed width="100%" height="466" src="assets/docs/twineIntro.pdf" style="border:none;">
 [Download slides here.](assets/docs/twineIntro.pdf)
+
+TODO: Add more content from the video
 
 <!-- Below the video/slides, this is where you put the text version of the page. -->
 ## What is Twine?
