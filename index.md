@@ -21,8 +21,7 @@ This module will introduce you to Twine, a beginner-friendly platform for buildi
 
 These tutorials were made for HUM2DH3: Creative, Collaborative, Critical: Introduction to Digital Scholarship. Sections of the videos relate directly to an assignment where students create a retelling of Frankenstein through a Twine Game. However, the majority of each video functions as a general introduction to Twine Games.
 
-Asynchronous Tutorials by Veronica Litt, Digital Scholarship Coordinator.  
-[Book an appointment with Veronica or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
+Asynchronous Tutorials by Veronica Litt, Digital Scholarship Coordinator. [Book an appointment with Veronica or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
 ## Prerequisites
 

@@ -22,15 +22,41 @@ Follow along with the introductory slides or text below.
 
 TODO: Add more content from the video
 
-<!-- Below the video/slides, this is where you put the text version of the page. -->
-## What is Twine?
+## History of Interactive Stories
+
+Interactive stories have been around for a very long time. One of the earliest examples found is the *I Ching*, or the *Book of Changes*, an ancient Chinese divination text dating back as far as 1000 BC. The text instructs the reader to flip sticks for several rounds, and depending on the layout of the sticks, flip to a certain page in the book.
+
+<img width="40%" alt="A page of the I Ching" src="assets/img/intro1.png">  
+A page from the I Ching.
+
+*Consider the Consequences*, another interactive story, by Doris Webster is a 1930s rom-com where the reader can achieve 43 different endings depending on the choices they make. It's the earliest known book to utilize this writing technique.
+
+<img width="30%" alt="cover art of Consider the Consequences" src="assets/img/intro2.png">  
+Cover art of *Consider the Consequences*.
+
+*Kinoautomat* by Radúz Činčera was the first interactive film. There would be several points in the film where the film would stop and a moderator appears to take a poll from the audience. Once a decision was made, the film would continue with that decision by swapping between the film projectors.
+
+<img width="30%" alt="cover art of Consider the Consequences" src="assets/img/intro3.png">  
+Cover art of *Kinoautomat*.
+
+The most popular interactive fiction series is the *Choose Your Own Adventure* (CYOA) books, authored by a lawyer named Edward Packer in 1976. They're short books written in the second-person point of view targeted towards kids. CYOA books quickly picked up in popularity when Bantam Books became its publisher in 1979. The settings and plot of these books varied widely, sometimes letting the reader explore the Wild West, other times letting the reader be a shark. 
+
+<img width="100%" alt="some books from the CYOA series" src="assets/img/intro4.png">  
+Some books from the *Choose Your Own Adventure* series.
+
+This format of storytelling was also picked up by the *Goosebumps* series, letting readers to "choose the scare".
+
+<img width="100%" alt="books from the Goosebumps seires" src="assets/img/intro5.png">  
+Some books from the *Goosebumps* series.
+
+More recently, some video games have started using this format of storytelling, allowing for even more interaction. Netflix has also experimented with interactive film and movies, such as with Charlie Brooker's *Black Mirror: Bandersnatch*. When writing the script for the film, Charlie actually used Twine to help organize the story's branches and diverting paths.
+
+<img width="40%" alt="the netflix cover art for bandersnatch" src="assets/img/intro6.png">  
+The Netflix cover art for *Black Mirror: Bandersnatch*.
+
+## So... What is Twine?
 
 Twine is a free open-source media software created in 2009 by Chris Klimas, a web programmer in Baltimore. It's used to create a wide variety of hypertext narratives, including games, interactive fiction, stories, websites, quizzes, resources, essays, e-poetry, divination manuals, and more. Twine is primarily popular with game designers, indie creators, and educators.
-
-{: .important-title }
-> Fun Fact
-> 
-> Twine was used by Charlie Brooker, most notably known for being the creator and writer of *Black Mirror*, to create the script for the interactive Netflix film [*Black Mirror: Bandersnatch*](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch).
 
 ## Twine's Critical Capacities
 - Amplifies the element of play in scholarship and pushes back on dominant modes of scholarly publication
