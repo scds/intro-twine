@@ -32,6 +32,8 @@ To learn more about any particular topic, take a look at the links below.
 - [Guide on access control](https://itch.io/docs/creators/access-control)
 - [Guide on designing and customizing your page](https://itch.io/docs/creators/design)
 
+<!-- ## Related Workshops -->
+
 ## Resources Used
 - Hammond, Adam. “A Total Beginner’s Guide to Twine 2.1.” AdamHammond.com, n.d. <https://www.adamhammond.com/twineguide/>
 - Kopas, Merritt, ed. Video Games for Humans: Twine Authors in Conversation. Instar Books, 2015.
