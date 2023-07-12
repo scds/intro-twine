@@ -10,7 +10,7 @@ Add, edit, or remove any content below for the workshop in question.
 -->
 
 # Workshop Introduction 
-Follow along with the introductory slides or text below.
+Follow along with the introductory video, slides, or text below.
 
 <!-- If your page has a video to go along with it, put it here. -->
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/c387e1fe-8042-44d2-a114-3c50ef18c524/public"></iframe>
