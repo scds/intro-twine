@@ -20,21 +20,19 @@ Follow along with the introductory video, slides, or text below.
 <embed width="100%" height="466" src="assets/docs/twineIntro.pdf" style="border:none;">
 [Download slides here.](assets/docs/twineIntro.pdf)
 
-TODO: Add more content from the video
-
 ## History of Interactive Stories
 
-Interactive stories have been around for a very long time. One of the earliest examples found is the *I Ching*, or the *Book of Changes*, an ancient Chinese divination text dating back as far as 1000 BC. The text instructs the reader to flip sticks for several rounds, and depending on the layout of the sticks, flip to a certain page in the book.
+Interactive stories have been around for a very long time. One of the earliest examples found is the *I Ching*, or the *Book of Changes*, an ancient Chinese divination text dating back as far as 1000 BC. The text instructs the reader to flip yarrow stalks for several rounds, and depending on the layout of the sticks, flip to a certain page in the book.
 
 <img width="40%" alt="A page of the I Ching" src="assets/img/intro1.png">  
-A page from the I Ching.
+A page from the *I Ching*.
 
-*Consider the Consequences*, another interactive story, by Doris Webster is a 1930s rom-com where the reader can achieve 43 different endings depending on the choices they make. It's the earliest known book to utilize this writing technique.
+*Consider the Consequences*, another interactive story, by Doris Webster is a 1930s rom-com where the reader can achieve 43 different endings depending on the choices they make. It's one of the earliest known books to utilize this writing technique.
 
 <img width="30%" alt="cover art of Consider the Consequences" src="assets/img/intro2.png">  
 Cover art of *Consider the Consequences*.
 
-*Kinoautomat* by Radúz Činčera was the first interactive film. There would be several points in the film where the film would stop and a moderator appears to take a poll from the audience. Once a decision was made, the film would continue with that decision by swapping between the film projectors.
+*Kinoautomat* by Radúz Činčera was one of the first interactive films. Throughout the screening, the film would stop with text depicting a choice the central character must make. A moderator would then appear to take a poll from the audience. Once a decision was made, the film would continue with that decision by swapping between film projectors.
 
 <img width="30%" alt="cover art of Consider the Consequences" src="assets/img/intro3.png">  
 Cover art of *Kinoautomat*.
@@ -44,12 +42,12 @@ The most popular interactive fiction series is the *Choose Your Own Adventure* (
 <img width="100%" alt="some books from the CYOA series" src="assets/img/intro4.png">  
 Some books from the *Choose Your Own Adventure* series.
 
-This format of storytelling was also picked up by the *Goosebumps* series, letting readers to "choose the scare".
+This format of storytelling was also picked up by the *Goosebumps* series, letting readers "choose the scare".
 
 <img width="100%" alt="books from the Goosebumps seires" src="assets/img/intro5.png">  
 Some books from the *Goosebumps* series.
 
-More recently, some video games have started using this format of storytelling, allowing for even more interaction. Netflix has also experimented with interactive film and movies, such as with Charlie Brooker's *Black Mirror: Bandersnatch*. When writing the script for the film, Charlie actually used Twine to help organize the story's branches and diverting paths.
+More famously, many video games use this format of storytelling, allowing for even more interaction between player and game. Netflix has also experimented with interactive film and movies, including Charlie Brooker's *Black Mirror: Bandersnatch*. When writing the script for the film, Charlie actually used Twine to help organize the story's branches and diverting paths.
 
 <img width="40%" alt="the netflix cover art for bandersnatch" src="assets/img/intro6.png">  
 The Netflix cover art for *Black Mirror: Bandersnatch*.
