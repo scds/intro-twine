@@ -38,7 +38,7 @@ By the end of this workshop, you will be able to:
 
 <!-- Estimate the time the workshop will take to complete. Feel free to remove this. -->
 ## Duration
-This module will take around an hour, however feel free to work at your own pace!
+This module will take around 2 hours, however feel free to work at your own pace!
 
 ## Land Acknowledgement
 We'd like to acknowledge that McMaster University sits on the Territories of the Mississauga and Haudenosaunee Nations, and within the lands protected by the Dish With One Spoon wampum agreement.
