@@ -1,5 +1,5 @@
-# Introduction to Twine Games
-Materials for the DMDS workshop: **Introduction to Twine Games**  
+# Introduction to Creating Interactive Stories with Twine
+Materials for the DMDS workshop: **Introduction to Creating Interactive Stories with Twine**  
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/intro-twine) with GitHub Pages. 
 

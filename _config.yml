@@ -1,4 +1,4 @@
-title: Introduction to Twine # *** Enter workshop title here 
+title: Introduction to Creating Interactive Stories with Twine # *** Enter workshop title here 
 github_repo_url: "https://scds.github.io/intro-twine/" # *** Enter workshop URL (in github pages) here
 gh_edit_repository: "https://github.com/scds/intro-twine" # *** Enter the github URL for your repo
 ga_tracking: "G-KKB0XYF8K6" # *** This needs to be set up in Google Analytics once you know the website URL (ask Jay to do this). Then the tracking code needs to be taken from Google Analytics and pasted here.  

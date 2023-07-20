@@ -15,7 +15,7 @@ Add, edit, or remove any content below for the workshop in question. -->
 <img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 <!-- Main header -->
-# Introduction to Twine
+# Introduction to Creating Interactive Stories with Twine
 
 This module will introduce you to Twine, a beginner-friendly platform for building interactive fiction. We will discuss how to create a Twine game, how to customize it, and how to publish it online for others to see.
 
