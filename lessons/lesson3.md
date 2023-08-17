@@ -254,12 +254,12 @@ After the user answers the prompt, simply use `$name` to refer to it. Look at th
 {: .label }
 Input
 
-<img width="75%" src="../assets/img/lessons/code14.png" style="border: solid 2px black"> 
+<img width="75%" src="../assets/img/lessons/code14.png" style="border: solid 2px black" alt="getting player name as variable input code"> 
 
 {: .label .label-green }
 Output
 
-<img width="100%" src="../assets/img/lessons/code15.gif" style="border: solid 2px black"> 
+<img width="100%" src="../assets/img/lessons/code15.gif" style="border: solid 2px black" alt="output of inputting a player name of `Richie` and having it display on screen"> 
 
 </details>
 
